@@ -2,17 +2,17 @@
 Este es un proyecto para practicar y profundizar conocimientos en git utlizando gitflow como metodologia
 
 # Herramientas
-*Visual Studio Code
-*Git
-*Github
+* Visual Studio Code
+* Git
+* Github
 
 # Lenguajes
-*html
-*css
-*js
+* html
+* css
+* js
 
 # Metodologia 
-*Gitflow
+* Gitflow
 
 # Creador por
-*Josda Qunvar
+* Josda Qunvar
